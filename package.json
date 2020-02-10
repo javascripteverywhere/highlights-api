@@ -1,0 +1,19 @@
+{
+  "name": "css-tricks-graphql-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Adam Scott <hello@adamdscott.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.10.0",
+    "graphql": "^14.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
